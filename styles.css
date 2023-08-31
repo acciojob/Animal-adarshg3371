@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+#animal-photos {
+  width: 950px;
+  height: 800px;
+  background-color: gray;
+  overflow: hidden;
+  color:white;
+}
+#animal-photos p {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 25px;
+}
+.first-row img {
+  padding-left: 8px;
+  border-radius: 10px;
+}
+.second-row img {
+  padding-top: 10px;
+  padding-left: 8px;
+  border-radius: 10px;
+}
+.third-row img {
+  padding-top: 10px;
+  padding-left: 8px;
+  border-radius: 10px;
+}
